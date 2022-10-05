@@ -78,3 +78,4 @@ final class CollectionViewCellPokemon: UICollectionViewCell {
         fatalError("init(coder:) has not been implemented")
     }
 }
+//
